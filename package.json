@@ -1,0 +1,18 @@
+{
+  "name": "nightwatch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "dependencies": {
+    "nightwatch": "^1.5.1"
+  },
+  "devDependencies": {
+    "chromedriver": "^88.0.0",
+    "geckodriver": "^1.22.1",
+    "selenium-server": "^3.141.59"
+  }
+}
